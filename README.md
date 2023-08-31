@@ -6,9 +6,8 @@ This is a simple example of how to use ReactQuery in a React application to mana
 
 - [About](#about)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## About
 
