@@ -1,8 +1,42 @@
-# React + Vite
+# ReactQuery Example
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple example of how to use ReactQuery in a React application to manage and fetch data from an API.
 
-Currently, two official plugins are available:
+## Table of Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [About](#about)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## About
+
+ReactQuery is a powerful library that simplifies data fetching, caching, and state management in React applications. This repository serves as a basic example of how to integrate ReactQuery into a React project.
+
+## Getting Started
+
+To get started with this project, follow these steps:
+
+1. Clone this repository:
+
+git clone https://github.com/ju4n-avendanoa/ReactQuery.git
+
+2. Change into the project directory:
+
+cd ReactQuery
+
+3. Install the dependencies:
+
+npm install
+
+4. Run the development server:
+
+npm start
+
+5. Open your browser and navigate to `http://localhost:3000` to see the example in action.
+
+## Contributing
+
+Contributions are welcome! If you have suggestions, improvements, or bug fixes, please open an issue or create a pull request. For major changes, please discuss them in an issue first.
+
